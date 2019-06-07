@@ -1,0 +1,34 @@
+body{
+    background-color: #171717;
+    font-family: 'Karla', sans-serif;
+}
+
+.footer{
+    text-align: center;
+    color: rgb(150, 150, 153);
+}
+
+.fundinho{
+    background-color: #E9ECEF;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+}
+.fotos{
+    color: #E9ECEF;
+}
+.para{
+    text-align: center;
+    padding: 40px;
+}
+
+.sobreimg{
+    width: 150px;
+    height: 150px;
+}
+
+.btnColor{
+    background-color: #7ACAC2;
+    color: white;  
+}
